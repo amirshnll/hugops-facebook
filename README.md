@@ -10,9 +10,9 @@ hugops facebook 10-04-2021
 <br />
 
 ## HugOps From :
-- [Amir Shokri](https://github.com/amirshnll)
-- [Sodeh Mohammadabadi](https://github.com/irSodeh)
-- [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Amir Shokri](https://github.com/amirshnll) 🇮🇷
+- [Sodeh Mohammadabadi](https://github.com/irSodeh) 🇮🇷
+- [Amirhossein Mohammadi](https://github.com/BlackIQ) 🇮🇷
 
 
 <br />
