@@ -1,5 +1,6 @@
 # hugops-facebook
 hugops facebook 10-04-2021
+**[Update about the October 4th Facebook outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/)**
 
 <br />
 
