@@ -19,10 +19,10 @@ hugops facebook 10-04-2021
 - [SANITAK](https://github.com/sk-2000) 🇮🇷
 - [Hritik Kumar Singh](https://github.com/Simba-97) 🇮🇳
 - [Bilal Irfan](https://github.com/Bilal112) 🇮🇳
-
 <br />
 
-**Add your name and your github profile**
+- [Muhammad Hammad Sani](https://github.com/mhammadsaani)
+
 
 <br />
 
