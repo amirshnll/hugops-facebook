@@ -20,6 +20,7 @@ hugops facebook 10-04-2021
 - [Hritik Kumar Singh](https://github.com/Simba-97) 🇮🇳
 - [Bilal Irfan](https://github.com/Bilal112) 🇮🇳
 - [Muhammad Hammad Sani](https://github.com/mhammadsaani) 🇵🇰
+- [Ramanpreet Kaur](https://github.com/1998ramanpreet) 🇮🇳
 
 
 <br />
