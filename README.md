@@ -21,6 +21,7 @@ hugops facebook 10-04-2021
 - [Bilal Irfan](https://github.com/Bilal112) 🇮🇳
 - [Muhammad Hammad Sani](https://github.com/mhammadsaani) 🇵🇰
 - [Ramanpreet Kaur](https://github.com/1998ramanpreet) 🇮🇳
+- [Soroush Safari](https://github.com/coci) 🇮🇷
 
 
 <br />
