@@ -22,6 +22,7 @@ hugops facebook 10-04-2021
 - [Muhammad Hammad Sani](https://github.com/mhammadsaani) 🇵🇰
 - [Ramanpreet Kaur](https://github.com/1998ramanpreet) 🇮🇳
 - [Soroush Safari](https://github.com/coci) 🇮🇷
+- [Poya shadman](https://github.com/poya-kob) 🇮🇷
 
 
 <br />
